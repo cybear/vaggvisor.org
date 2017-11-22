@@ -29,3 +29,5 @@ solen visar sig igen.
 Blinka, lilla stjärna där,
 hur jag undrar vad du är.
 ```
+
+Betty Ehrenborg
