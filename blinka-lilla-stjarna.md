@@ -30,4 +30,4 @@ Blinka, lilla stjärna där,
 hur jag undrar vad du är.
 ```
 
-Betty Ehrenborg
+Översättning: Betty Ehrenborg
