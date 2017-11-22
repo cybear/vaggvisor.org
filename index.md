@@ -7,5 +7,5 @@ Här finns en samling av texter till kända svenska vaggvisor. Det finns andra s
 
 Dessa visor finns upplagda. Det kommer nog fler.
 
-* [Trollmors vaggvisa](trollmors-vaggvisa.md)
-* [Blinka lilla stjärna](blinka-lilla-stjarna.md)
+* [Trollmors vaggvisa](trollmors-vaggvisa.html)
+* [Blinka lilla stjärna](blinka-lilla-stjarna.html)
