@@ -11,4 +11,4 @@ Ho aj aj aj aj buff, buff
 Ho aj aj aj aj buff
 ```
 
-Margit Holmberg
+Musik & text: Margit Holmberg
