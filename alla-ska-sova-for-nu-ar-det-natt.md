@@ -36,3 +36,8 @@ vareviga katt.
 ```
 
 Text: Astrid Lindgren, musik: Georg Riedel
+
+
+<iframe src="https://open.spotify.com/embed/track/4DSFl5u2ss5UpkT4rJNiHJ" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wVD_RoIrFIQ?rel=0" frameborder="0" allowfullscreen></iframe>
