@@ -11,6 +11,7 @@ alla ska sova
 för nu är det natt.
 Sova ska också
 vareviga katt.
+
 Kossor och kalvar
 i sina hagar
 alla små föl och
@@ -21,6 +22,7 @@ nu ska de sova
 för nu är det natt.
 Sova ska också
 vareviga katt.
+
 Skogar och hagar
 åkrar och ängar
 blommor och fåglar
