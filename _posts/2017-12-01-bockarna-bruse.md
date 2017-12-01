@@ -1,3 +1,10 @@
+---
+categories: ['Arvid Höglund']
+layout: default
+spotify_id: 
+youtube_id: 
+---
+
 # Bockarna Bruse
 
 ```
