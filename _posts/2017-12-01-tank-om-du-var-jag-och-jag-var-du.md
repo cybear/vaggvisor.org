@@ -1,11 +1,10 @@
 ---
 categories: ['Lena Sjöberg']
 layout: default
+title: 'Tänk om du var jag och jag var du'
 spotify_id: 6Gnmg96JcuOWScTI5fy2sT
 youtube_id: 
 ---
-
-# Tänk om du var jag och jag var du
 
 ```
 Tänk om JAG var liten och tänk om DU var stor

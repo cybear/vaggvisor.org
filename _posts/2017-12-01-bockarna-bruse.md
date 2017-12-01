@@ -1,11 +1,10 @@
 ---
 categories: ['Arvid Höglund']
 layout: default
+title: 'Bockarna Bruse'
 spotify_id: 
 youtube_id: 
 ---
-
-# Bockarna Bruse
 
 ```
 Lilla bocken Bruse trippa över trollebro.
