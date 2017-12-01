@@ -1,6 +1,6 @@
 description: Den reklamfria sajten med vaggvisor
 google_analytics: UA-64961-15
-permalink: /:categories/:title/
+permalink: /:title/
 show_downloads: false
 theme: jekyll-theme-cayman
 title: Kända vaggvisor
