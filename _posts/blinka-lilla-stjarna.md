@@ -38,8 +38,3 @@ hur jag undrar vad du är.
 
 Översättning: Betty Ehrenborg
 
-
-<iframe src="https://open.spotify.com/embed/track/5qKMRp9o7rHVpypsgFNaVg" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9MvkUmrZiiE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
