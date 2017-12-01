@@ -1,6 +1,6 @@
 ---
 categories: ['Betty Ehrenborg']
-layout: post
+layout: default
 spotify_id: 5qKMRp9o7rHVpypsgFNaVg
 youtube_id: 9MvkUmrZiiE
 ---
