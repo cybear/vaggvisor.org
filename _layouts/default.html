@@ -25,16 +25,6 @@
     <section class="main-content">
       {{ content }}
 
-      {% if post.spotify_id %}
-        <h3>Lyssna med Spotify</h3>
-        <iframe src="https://open.spotify.com/embed/track/{% post.spotify_id %}" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-      {% endif %}
-      {% if post.youtube_id %}
-        <h3>Lyssna med YouTube</h3>
-        <iframe width="300" height="167" src="https://www.youtube-nocookie.com/embed/{% post.youtube_id %}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-      {% endif %}
-
-
       <footer class="site-footer">
         {% if false %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
