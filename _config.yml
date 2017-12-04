@@ -4,3 +4,17 @@ permalink: /:title/
 show_downloads: false
 theme: jekyll-theme-cayman
 title: Kända vaggvisor
+sass:
+  style: compressed
+collections:
+  my_categories:
+    output: true
+    permalink: /category/:slug/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: my_categories
+    values:
+      layout: by_category

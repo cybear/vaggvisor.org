@@ -1,9 +1,9 @@
 ---
 categories: ['Evert Taube']
-layout: default
+layout: lyrics
 title: 'Vyssan lull'
-spotify_id: 
-youtube_id: 
+spotify_id:
+youtube_id:
 ---
 
 ```

@@ -1,6 +1,6 @@
 ---
 categories: ['Astrid Lindgren','Georg Riedel']
-layout: default
+layout: lyrics
 title: 'Alla ska sova för nu är det natt'
 spotify_id: 4DSFl5u2ss5UpkT4rJNiHJ
 youtube_id: wVD_RoIrFIQ

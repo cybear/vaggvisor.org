@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="text-justify">
+  {% if site.categories[page.name] %}
+    {% for post in site.categories[page.name] %}
+      <a href="{{ post.url }}" class="list-group-item">
+        <h4 class="list-group-item-heading h6">{{ post.title }}</h4>
+      </a>
+      {% if forloop.last %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    <p>There are no posts in this category.</p>
+  {% endif %}
+</div>
