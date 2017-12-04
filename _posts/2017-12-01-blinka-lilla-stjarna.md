@@ -1,6 +1,6 @@
 ---
 categories: ['Betty Ehrenborg']
-layout: default
+layout: lyrics
 title: 'Blinka lilla stjärna'
 spotify_id: 5qKMRp9o7rHVpypsgFNaVg
 youtube_id: 9MvkUmrZiiE
@@ -37,4 +37,3 @@ hur jag undrar vad du är.
 ```
 
 Översättning: Betty Ehrenborg
-

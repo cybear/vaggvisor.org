@@ -1,5 +1,6 @@
 ---
 title: Kända svenska vaggvisor
+layout: default
 ---
 
 <ul>
