@@ -1,8 +1,7 @@
 ---
-categories: ['Lena Sjöberg']
-title: 'Tänk om du var jag och jag var du'
+categories: [Lena Sjöberg, Martin Östergren]
+title: Tänk om du var jag och jag var du
 spotify_id: 6Gnmg96JcuOWScTI5fy2sT
-youtube_id:
 ---
 
 ```
@@ -20,8 +19,8 @@ Ja, tänk om du var jag och tänk om jag var du
 Du skulle viska i mitt öra:  – Det är dags att sova nu.
 ```
 
-Lena Sjöberg
-
+Text: Lena Sjöberg<br>
+Komposition: Martin Östergren
 
 Ur boken *Tänk Om*<br>
 Rabén & Sjögren, 2010<br>
