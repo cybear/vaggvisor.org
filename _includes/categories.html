@@ -1,7 +1,7 @@
 {% if page.categories %}
-<p>Tags: 
+<p>
 {% for category in page.categories %}
-    <a class="label" href="/category/{{ category | slugify }}">{{ category }}</a> 
+    <a class="label" href="/category/{{ category | slugify }}">{{ category }}</a>
 {% endfor %}
 </p>
 {% endif %}
