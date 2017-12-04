@@ -1,6 +1,6 @@
 ---
 categories: ['Evert Taube']
-title: 'Vyssan lull'
+title: Vyssan lull
 spotify_id:
 youtube_id:
 ---
