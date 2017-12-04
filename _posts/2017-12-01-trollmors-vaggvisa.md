@@ -1,6 +1,5 @@
 ---
 categories: ['Margit Holmberg']
-layout: lyrics
 title: 'Trollmors vaggvisa'
 spotify_id:
 youtube_id:

@@ -1,6 +1,5 @@
 ---
 categories: ['Arvid Höglund']
-layout: lyrics
 title: 'Bockarna Bruse'
 spotify_id:
 youtube_id:

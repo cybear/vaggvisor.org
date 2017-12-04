@@ -1,6 +1,5 @@
 ---
 categories: ['Astrid Lindgren','Georg Riedel']
-layout: lyrics
 title: 'Lille katt'
 spotify_id: 3l6DIT1Es47FMhwMV7c0rl
 youtube_id: fFh9WleBkRk

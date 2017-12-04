@@ -18,3 +18,9 @@ defaults:
       type: my_categories
     values:
       layout: by_category
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: lyrics

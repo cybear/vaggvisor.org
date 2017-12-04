@@ -1,6 +1,5 @@
 ---
 categories: ['Lena Sjöberg']
-layout: lyrics
 title: 'Tänk om du var jag och jag var du'
 spotify_id: 6Gnmg96JcuOWScTI5fy2sT
 youtube_id:
