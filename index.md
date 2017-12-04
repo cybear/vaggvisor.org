@@ -6,6 +6,6 @@ layout: default
 <ul>
   {% assign sortedPosts = site.posts | sort: 'title' %}
   {% for post in sortedPosts %}
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
   {% endfor %}
 </ul>
