@@ -4,7 +4,8 @@ layout: default
 
 <div class="text-justify">
   {% if site.categories[page.name] %}
-    {% for post in site.categories[page.name] %}
+    {% assign sortedCategories = site.categories[page.name] | sort: 'title' %}
+    {% for post in sortedCategories %}
     <h4><a href="{{ post.url }}" class="list-group-item">
         {{ post.title }}
       </a></h4>
