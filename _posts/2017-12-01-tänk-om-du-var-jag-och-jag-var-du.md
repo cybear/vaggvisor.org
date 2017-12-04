@@ -26,5 +26,3 @@ Lena Sjöberg
 Ur boken *Tänk Om*<br>
 Rabén & Sjögren, 2010<br>
 ISBN: 9789129672046
-
-<iframe src="https://open.spotify.com/embed/track/6Gnmg96JcuOWScTI5fy2sT" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
