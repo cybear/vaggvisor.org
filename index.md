@@ -1,9 +1,10 @@
 ---
-title: Kända svenska vaggvisor
 layout: default
 ---
 
+Jag saknade en sajt med texter till vaggvisor utan reklam. Så jag gjorde den. Håll tillgodo!
+
 {% assign sortedPosts = site.posts | sort: 'title' %}
 {% for post in sortedPosts %}
-  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+  <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
