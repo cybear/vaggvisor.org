@@ -89,55 +89,23 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-
-  @include large {
-    padding: 1.5rem;
-  }
-
-  @include medium {
-    padding: 1rem;
-  }
-
-  @include small {
-    padding: 0.5rem;
-  }
+  //background-color: $header-bg-color;
+  //background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  //border-bottom: thin solid #eee;
 }
 
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
+  font-size: 1.2rem;
+  font-family: 'Times New Roman', Times, serif;
 
-  @include large {
-    font-size: 3.25rem;
-  }
-
-  @include medium {
-    font-size: 2.25rem;
-  }
-
-  @include small {
-    font-size: 1.75rem;
-  }
 }
 
 .project-tagline {
   margin-bottom: 0.5rem;
   font-weight: normal;
-  opacity: 0.7;
-
-  @include large {
-    font-size: 1.25rem;
-  }
-
-  @include medium {
-    font-size: 1.15rem;
-  }
-
-  @include small {
-    font-size: 1rem;
-  }
+  font-size: 1rem;
 }
 
 .main-content {
@@ -149,18 +117,18 @@ a {
 
   @include large {
     max-width: 64rem;
-    padding: 2rem 6rem;
+    padding: 2rem 6rem 0;
     margin: 0 auto;
     font-size: 1.1rem;
   }
 
   @include medium {
-    padding: 2rem 4rem;
+    padding: 2rem 4rem 0;
     font-size: 1.1rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 2rem 1rem 0;
     font-size: 1rem;
   }
 
@@ -187,38 +155,6 @@ a {
     margin-bottom: 1em;
   }
 
-  code {
-    padding: 2px 4px;
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 0.9rem;
-    color: $code-text-color;
-    background-color: $code-bg-color;
-    border-radius: 0.3rem;
-  }
-
-  pre {
-    padding: 0.8rem;
-    margin-top: 0;
-    margin-bottom: 1rem;
-    font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    color: $code-text-color;
-    word-wrap: normal;
-    background-color: $code-bg-color;
-    border: solid 1px $border-color;
-    border-radius: 0.3rem;
-
-    > code {
-      padding: 0;
-      margin: 0;
-      font-size: 0.9rem;
-      color: $code-text-color;
-      word-break: normal;
-      white-space: pre;
-      background: transparent;
-      border: 0;
-    }
-  }
-
   .highlight {
     margin-bottom: 1rem;
 
@@ -227,10 +163,10 @@ a {
       word-break: normal;
     }
   }
-
+/*
   .highlight pre,
   pre {
-    padding: 0.8rem;
+    //padding: 0.8rem;
     overflow: auto;
     font-size: 0.9rem;
     line-height: 1.45;
@@ -255,12 +191,12 @@ a {
       content: normal;
     }
   }
-
+*/
   ul,
   ol {
     margin-top: 0;
   }
-
+/*
   blockquote {
     padding: 0 1rem;
     margin-left: 0;
@@ -274,7 +210,7 @@ a {
     > :last-child {
       margin-bottom: 0;
     }
-  }
+  }*/
 /*
   table {
     display: block;
@@ -310,7 +246,7 @@ a {
       margin-bottom: 1rem;
     }
   }
-*/
+
   hr {
     height: 2px;
     padding: 0;
@@ -318,12 +254,14 @@ a {
     background-color: $hr-border-color;
     border: 0;
   }
+  */
 }
 
 .site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px $hr-border-color;
+  padding-top: 0.25rem;
+  margin-top: 3rem;
+  margin-bottom: 0.5rem;
+  border-top: solid thin $hr-border-color;
 
   @include large {
     font-size: 1rem;
@@ -337,7 +275,7 @@ a {
     font-size: 0.9rem;
   }
 }
-
+/*
 .site-footer-owner {
   display: block;
   font-weight: bold;
@@ -346,3 +284,4 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+*/
