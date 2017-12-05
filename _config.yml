@@ -3,8 +3,6 @@ google_analytics: UA-64961-15
 permalink: /:title/
 show_downloads: false
 title: Kända vaggvisor
-sass:
-  style: compressed
 collections:
   my_categories:
     output: true
