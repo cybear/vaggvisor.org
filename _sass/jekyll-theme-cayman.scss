@@ -1,5 +1,5 @@
-@import "normalize";
-@import "rouge-github";
+//@import "normalize";
+//@import "rouge-github";
 @import "variables";
 
 @mixin large {
@@ -272,7 +272,7 @@ a {
       margin-bottom: 0;
     }
   }
-
+/*
   table {
     display: block;
     width: 100%;
@@ -307,7 +307,7 @@ a {
       margin-bottom: 1rem;
     }
   }
-
+*/
   hr {
     height: 2px;
     padding: 0;
