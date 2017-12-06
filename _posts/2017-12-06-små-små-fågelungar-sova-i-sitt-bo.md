@@ -1,5 +1,5 @@
 ---
-categories: ['Alice Tegnér','Felix Körling']
+categories: []
 title: Små små fågelungar sova i sitt bo
 spotify_id: 1YnDTDwkxEjhzTATuB8Nyk
 youtube_id: c2LAdQW7a68
@@ -41,5 +41,3 @@ de sakta lyfter den.
 Då luft han under vingen får,  
 han flyga kan igen.
 
-
-Text: Alice Tegnér
