@@ -1,8 +1,7 @@
 ---
 categories: ['Arvid Höglund']
 title: 'Bockarna Bruse'
-spotify_id:
-youtube_id:
+spotify_id: 5fcY9xALyt1sH8E0gdGHoV
 ---
 
 Lilla bocken Bruse trippa över trollebro.  
