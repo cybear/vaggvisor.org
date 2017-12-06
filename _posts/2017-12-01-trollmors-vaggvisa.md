@@ -1,8 +1,8 @@
 ---
 categories: ['Margit Holmberg']
 title: 'Trollmors vaggvisa'
-spotify_id:
-youtube_id:
+spotify_id: 2tu5QdvwqjQikupzaJRLV7
+youtube_id: lBFa4z0baSc
 ---
 
 När trollmor har lagt sina elva små troll  
