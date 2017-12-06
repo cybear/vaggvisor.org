@@ -1,0 +1,3 @@
+---
+name: Thorbjørn Egner
+---
