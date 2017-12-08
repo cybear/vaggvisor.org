@@ -1,3 +1,3 @@
 ---
-Anna Maria Roos
+name: Anna Maria Roos
 ---
