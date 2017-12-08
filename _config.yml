@@ -6,7 +6,7 @@ plugins:
   - jekyll-sitemap
 show_downloads: false
 title: Kända vaggvisor
-url: vaggvisor.org
+url: http://vaggvisor.org
 collections:
   my_categories:
     output: true
