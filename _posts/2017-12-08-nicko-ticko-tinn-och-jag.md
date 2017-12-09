@@ -30,3 +30,10 @@ Nicko Ticko Tinn tiralla och jag.
 
 
 Text: Lennart Hellsing, musik: Knut Brodin
+
+
+<h3>Lyssna på MP3</h3>
+
+Sjunget med min son Leo när han var två.
+<audio src="/assets/nicko-ticko-tinn.mp3" controls="controls" ></audio>
+
