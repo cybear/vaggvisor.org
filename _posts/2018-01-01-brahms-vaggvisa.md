@@ -20,4 +20,28 @@ och med kyss på din mun,
 vaggar hon dig i blund.
 
 
+Alt.
+
+
+Nu i ro, slumra in, i bädden så fin  
+som blomman på äng, i en gungande säng  
+och guds änglar de små breda vingarna ut  
+och kring barnet de stå tills dess natten är slut.
+
+
+Alt. 
+
+
+Nu i ro slumra in  
+lilla älsklingen min,  
+ned i kudden dig göm  
+vid din rosiga dröm,  
+tills du väcks, lilla vän,  
+nästa morgon igen,  
+tills du väcks, lilla vän  
+nästa morgon igen.
+
+
+
+
 Musik: Johannes Brahm, svensk text: Alice Tegnér
