@@ -1,0 +1,15 @@
+---
+title: Ekorrn satt i granen
+categories: [Alice Tegnér]
+---
+
+Ekorrn satt i granen   
+skulle skala kottar   
+fick han höra barnen   
+då fick han så bråttom   
+hoppa han på tallegren   
+stötte han sitt lilla ben   
+och den långa, ludna svansen
+
+
+Alice Tegnér
