@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="text-justify">
+  {{ content }}
   {% if site.categories[page.name] %}
     {% assign sortedCategories = site.categories[page.name] | sort: 'title' %}
     {% for post in sortedCategories %}

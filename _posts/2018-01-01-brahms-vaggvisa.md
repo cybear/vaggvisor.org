@@ -1,6 +1,6 @@
 ---
 title: Brahms vaggvisa
-categories: [Johannes Brahm, Alice Tegnér]
+categories: [Johannes Brahms, Alice Tegnér]
 youtube_id: 8YYUXtzsZQc
 spotify_id: 0HorPLOMVd3z55rSPhMEA0
 ---
@@ -44,4 +44,4 @@ nästa morgon igen.
 
 
 
-Musik: Johannes Brahm, svensk text: Alice Tegnér
+Musik: Johannes Brahms, svensk text: Alice Tegnér
