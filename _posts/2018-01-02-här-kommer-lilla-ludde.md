@@ -1,6 +1,5 @@
 ---
 title: Här kommer lilla Ludde
-categories: []
 youtube_id: LK_xhWSIlK0
 spotify_id: 75ZamSWX2R8zYuisvoe9jC
 ---

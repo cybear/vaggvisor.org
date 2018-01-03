@@ -1,5 +1,4 @@
 ---
-categories: []
 title: Små små fågelungar sova i sitt bo
 spotify_id: 1YnDTDwkxEjhzTATuB8Nyk
 youtube_id: c2LAdQW7a68

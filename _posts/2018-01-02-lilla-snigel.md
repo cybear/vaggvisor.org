@@ -1,6 +1,5 @@
 ---
 title: Lilla snigel
-categories: []
 youtube_id: 0F6N18JgoOg
 spotify_id: 7rRIED8YBYaJDN1kfXpIrk
 ---

@@ -1,6 +1,5 @@
 ---
 title: John Blund
-categories: []
 youtube_id: pRSgt3TEu_0
 spotify_id: 5gNa76TyEn5gZPusIeyuIc
 ---
