@@ -13,3 +13,4 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Spotify ID", name: "spotify_id", widget: "string"}
       - {label: "Youtube ID", name: "youtube_id", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
