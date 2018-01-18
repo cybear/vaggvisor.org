@@ -1,0 +1,16 @@
+backend:
+  name: git-gateway
+
+media_folder: "assets"
+collections:
+  - name: "lyrics"
+    label: "Lyrics"  
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Authors", name: "categories", widget: "list"}
+      - {label: "Spotify ID", name: "spotify_id", widget: "string"}
+      - {label: "Youtube ID", name: "youtube_id", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
