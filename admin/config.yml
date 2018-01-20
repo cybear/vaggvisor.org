@@ -10,6 +10,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Authors", name: "categories", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Spotify ID", name: "spotify_id", widget: "string"}
       - {label: "Youtube ID", name: "youtube_id", widget: "string"}
