@@ -18,7 +18,7 @@ defaults:
       path: ""
       type: my_categories
     values:
-      layout: by_category
+      layout: author
   -
     scope:
       path: ""
