@@ -8,7 +8,7 @@ show_downloads: false
 title: Kända vaggvisor
 url: https://vaggvisor.org
 collections:
-  my_categories:
+  authors:
     output: true
     permalink: /category/:slug/
 
@@ -16,7 +16,7 @@ defaults:
   -
     scope:
       path: ""
-      type: my_categories
+      type: authors
     values:
       layout: author
   -
