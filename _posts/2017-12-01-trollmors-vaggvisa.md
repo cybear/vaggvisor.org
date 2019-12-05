@@ -15,4 +15,4 @@ Ho aj aj aj aj buff, buff
 Ho aj aj aj aj buff
 
 
-Musik & text: Margit Holmberg
+Text & Musik: Margit Holmberg

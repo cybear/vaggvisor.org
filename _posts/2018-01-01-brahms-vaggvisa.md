@@ -1,10 +1,10 @@
 ---
-title: Brahms vaggvisa
+title: Nu i ro slumra in (Brahms vaggvisa)
 categories: [Johannes Brahms, Alice Tegnér]
 youtube_id: 8YYUXtzsZQc
 spotify_id: 0HorPLOMVd3z55rSPhMEA0
 ---
-  
+
 Nu i ro, slumra in,  
 allra kärestan min,  
 låt en ängel ta din hand,  
@@ -44,4 +44,4 @@ nästa morgon igen.
 
 
 
-Musik: Johannes Brahms, svensk text: Alice Tegnér
+Svensk text: Alice Tegnér, musik: Johannes Brahms
