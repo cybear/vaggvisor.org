@@ -1,0 +1,8 @@
+{% if page.categories %}
+<div class="menu">
+  <a href="/">Alla visor</a>
+{% for category in page.categories %}
+  | <a href="/category/{{ category | slugify }}">Visor av {{ category }}</a>
+{% endfor %}
+</div>
+{% endif %}

@@ -1,0 +1,17 @@
+{% if page.categories %}
+<section class="more-from">
+{% for category in page.categories %}
+  {% assign sortedCategories = site.categories[category] | sort: 'title' %}
+  Fler av <a href="/category/{{ category | slugify }}">{{ category }}</a>:
+  <ul>
+    {% for post in sortedCategories %}
+      <li>
+        <a href="{{ post.url }}" class="list-group-item">
+          {{ post.title }}
+        </a>
+      </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+</section>
+{% endif %}
