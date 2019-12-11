@@ -1,8 +1,0 @@
-{% if page.categories %}
-<p class="categories">
-Se mer av:
-{% for category in page.categories %}
-    <a class="label" href="/category/{{ category | slugify }}">{{ category }}</a>
-{% endfor %}
-</p>
-{% endif %}
