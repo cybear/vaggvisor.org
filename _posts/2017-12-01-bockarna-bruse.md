@@ -1,5 +1,5 @@
 ---
-categories: ['Arvid Höglund']
+categories: ['Arvid Höglund', MegaVega]
 title: 'Bockarna Bruse'
 spotify_id: 5fcY9xALyt1sH8E0gdGHoV
 megavega_id: vV2Adqotfyc

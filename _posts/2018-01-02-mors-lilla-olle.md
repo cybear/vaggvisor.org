@@ -1,6 +1,6 @@
 ---
 title: Mors lilla Olle
-categories: [Alice Tegnér]
+categories: [Alice Tegnér, MegaVega]
 youtube_id: pDXYSaTZKzA
 spotify_id: 73fFulxjHDHSde9qYby49F
 megavega_id: 8ziy_99KUEQ

@@ -1,6 +1,6 @@
 ---
 title: Ekorrn satt i granen
-categories: [Alice Tegnér]
+categories: [Alice Tegnér, MegaVega]
 megavega_id: _ug2tNLY3KM
 ---
 
