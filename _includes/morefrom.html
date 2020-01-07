@@ -6,7 +6,7 @@
   <ul>
     {% for post in sortedCategories %}
       <li>
-        <a href="{{ post.url }}" class="list-group-item">
+        <a href="{{ post.url }}" rel="author" class="list-group-item">
           {{ post.title }}
         </a>
       </li>
