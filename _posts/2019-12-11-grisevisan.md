@@ -1,6 +1,7 @@
 --- 
-categories: ['Astrid Lindgren', 'Georg Riedel'] 
-title: 'Grisevisan (Ibland går jag runt och trallar)' 
+title: 'Grisevisan (Ibland går jag runt och trallar)'
+categories: ['Astrid Lindgren', 'Georg Riedel']
+tags: [vaggvisa, gris]
 spotify_id: 3i4pziVywtyXWp3KNi9kLP
 youtube_id: UnBYy7HMMQs
 ---  

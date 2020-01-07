@@ -1,6 +1,7 @@
 --- 
-categories: ['Alice Tegnér'] 
-title: 'Lilla Lasse' 
+title: 'Lilla Lasse'
+categories: ['Alice Tegnér']
+tags: [vaggvisa, gädda, braxen]
 spotify_id: 32kXOV8n9qLWma0Oi3nyc6
 youtube_id: qatuErhps2U
 ---  

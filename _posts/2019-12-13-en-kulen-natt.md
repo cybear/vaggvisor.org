@@ -1,9 +1,10 @@
---- 
-categories: ['Anders Palm', 'Johan Stenström'] 
-title: 'En kulen natt' 
+---
+title: 'En kulen natt'
+categories: ['Anders Palm', 'Johan Stenström']
+tags: [vaggvisa, babyrytmik, båt]
 spotify_id: 2guF6voX3pqejmmFU1EFnM
 youtube_id: _miBL7E3wd8
----  
+---
 
 En kulen natt, natt, natt  
 min båt jag styrde  

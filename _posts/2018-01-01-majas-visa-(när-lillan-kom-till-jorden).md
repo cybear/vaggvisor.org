@@ -1,6 +1,7 @@
 ---
 title: Majas visa (När lillan kom till jorden)
 categories: [Alice Tegnér]
+tags: [vaggvisa, lillasyster, vår, maj]
 youtube_id: Z4zBto2T-mA
 spotify_id: 1QWkuvvCmp16ZfCmN0GrSr
 ---

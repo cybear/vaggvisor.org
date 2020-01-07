@@ -1,9 +1,10 @@
---- 
+---
+title: 'Björnen sover'
 categories: ['Carl Michael Bellman']
-title: 'Björnen sover' 
+tags: [vaggvisa, björn, barnlek]
 spotify_id: 0JGcH6rf6HXjjMwrifPKQ0
 youtube_id: n5dGWfcWO9w
----  
+---
 
 Björnen sover, björnen sover  
 i sitt lugna bo.  

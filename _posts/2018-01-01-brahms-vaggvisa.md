@@ -1,6 +1,7 @@
 ---
 title: Nu i ro slumra in (Brahms vaggvisa)
 categories: [Johannes Brahms, Alice Tegnér]
+tags: [vaggvisa]
 youtube_id: 8YYUXtzsZQc
 spotify_id: 0HorPLOMVd3z55rSPhMEA0
 ---

@@ -1,6 +1,7 @@
 ---
-categories: ['Gullan Bornemark'] 
-title: 'Är du vaken Lars' 
+title: 'Är du vaken Lars'
+categories: ['Gullan Bornemark']
+tags: [vaggvisa]
 spotify_id: 6iFhC14wnrQk6JzRoXdDd7
 youtube_id: _miBL7E3wd8
 ---

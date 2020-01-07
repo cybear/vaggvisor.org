@@ -1,6 +1,7 @@
 --- 
-categories: ['Alice Tegnér'] 
-title: 'Vart ska du gå, min lilla flicka' 
+title: 'Vart ska du gå, min lilla flicka'
+categories: ['Alice Tegnér']
+tags: [vaggvisa, get]
 spotify_id: 3UiyOwYrZ17SxVg3mWmzdX
 youtube_id: r5ItjYSBEOk
 ---  

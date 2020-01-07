@@ -1,6 +1,7 @@
 ---
-categories: ['Carl Michael Bellman']
 title: Vaggvisa för min son Carl
+categories: ['Carl Michael Bellman']
+tags: [vaggvisa]
 spotify_id: 16WDbjvb6dIO4Pnc08DptS
 youtube_id: 4wMkWIF6U60
 ---

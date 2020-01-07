@@ -1,6 +1,7 @@
 --- 
-categories: ['Hoffmann von Fallersleben'] 
 title: "Alla fåglar kommit re'n"
+categories: ['Hoffmann von Fallersleben']
+tags: [vaggvisa, vår, fåglar, lärka, gök, trast, siska, trast, fink, duva]
 spotify_id: 2PEfDtPJWGdMiVIPzlT7OV
 youtube_id: Rg2srOhxdlc
 ---  

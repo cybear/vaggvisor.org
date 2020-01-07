@@ -1,5 +1,7 @@
 ---
 title: Vem kan segla förutan vind
+tags: [vaggvisa, babyrytmik]
+categories: [Trad]
 ---
 
 Vem kan segla förutan vind,  
