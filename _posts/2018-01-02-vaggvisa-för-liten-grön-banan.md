@@ -1,6 +1,7 @@
 ---
 title: Vaggvisa för liten grön banan
 categories: [Lennart Hellsing]
+tags: [vaggvisa]
 youtube_id: EYObQxJw9ss
 spotify_id: 1bvZ0VVU9bwjVE45kYRACD
 ---

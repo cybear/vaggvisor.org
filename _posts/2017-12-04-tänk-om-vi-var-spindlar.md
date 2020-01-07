@@ -1,5 +1,6 @@
 ---
 categories: [Lena Sjöberg, Martin Östergren]
+tags: [vaggvisa]
 title: Tänk om vi var spindlar
 spotify_id: 2ylISg4dwL73gs6v4X2LF0
 ---

@@ -1,5 +1,6 @@
 ---
 categories: [Lena Sjöberg, Martin Östergren]
+tags: [vaggvisa]
 title: 'Tänk om vi var harar'
 spotify_id: 0j5QTokSIvXX485cVtipAn
 youtube_id: So0V2ADnyEQ

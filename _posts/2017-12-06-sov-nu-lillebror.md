@@ -1,5 +1,6 @@
 ---
 categories: ['Hans Alfredson']
+tags: [vaggvisa]
 title: Sov nu lillebror
 spotify_id: 0gZgSCXEKHGErtd7TCkvmm
 youtube_id: 9OpMHbfKAbk

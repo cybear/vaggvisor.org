@@ -1,6 +1,7 @@
 --- 
-categories: ['Trad'] 
-title: 'Kristallen den fina' 
+title: 'Kristallen den fina'
+categories: ['Trad']
+tags: [vaggvisa]
 spotify_id: 55zZ62m7LW3tZoIiMPg3pw
 youtube_id: cllrNc--moc
 ---  

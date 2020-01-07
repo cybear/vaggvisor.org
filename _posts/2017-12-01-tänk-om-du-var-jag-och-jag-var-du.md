@@ -1,5 +1,6 @@
 ---
 categories: [Lena Sjöberg, Martin Östergren]
+tags: [vaggvisa]
 title: Tänk om du var jag och jag var du
 spotify_id: 6Gnmg96JcuOWScTI5fy2sT
 ---

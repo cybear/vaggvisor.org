@@ -1,5 +1,6 @@
 ---
 categories: ['Zacharias Topelius','Alice Tegnér']
+tags: [vaggvisa, vinter]
 title: Videvisan
 spotify_id: 1iUaiwuvQMKdWj1x9qXOIZ
 youtube_id: C60Aux4yCHg

@@ -1,6 +1,7 @@
 ---
-categories: ['Ingela "Pling" Forsman', 'Hans Matthison-Hansen', 'Margrethe Munthe'] 
-title: 'Vi har en tulta med ögon blå' 
+title: 'Vi har en tulta med ögon blå'
+categories: ['Ingela "Pling" Forsman', 'Hans Matthison-Hansen', 'Margrethe Munthe']
+tags: [vaggvisa]
 spotify_id: 5JE3cxqGynyRFJnZUZznuT
 youtube_id: v=3SPCwxFGI0k
 ---

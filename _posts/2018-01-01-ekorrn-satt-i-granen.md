@@ -1,6 +1,7 @@
 ---
 title: Ekorrn satt i granen
 categories: [Alice Tegnér, MegaVega]
+tags: [vaggvisa, ekorre]
 megavega_id: _ug2tNLY3KM
 ---
 

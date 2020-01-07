@@ -1,5 +1,7 @@
 ---
 title: Lilla snigel
+categories: [Trad]
+tags: [vaggvisa, snigel]
 youtube_id: 0F6N18JgoOg
 spotify_id: 7rRIED8YBYaJDN1kfXpIrk
 ---

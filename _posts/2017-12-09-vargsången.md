@@ -1,6 +1,7 @@
 ---
-categories: ['Astrid Lindgren','Björn Isfält']
 title: Vargsången
+categories: ['Astrid Lindgren','Björn Isfält']
+tags: [vaggvisa, varg]
 spotify_id: 07YghKKOc117g3VIKwJMFb
 youtube_id: QMHq-nRF4p8
 ---

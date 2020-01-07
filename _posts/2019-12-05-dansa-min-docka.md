@@ -1,6 +1,7 @@
---- 
-categories: ['Alice Tegnér'] 
-title: 'Dansa min docka' 
+---
+title: 'Dansa min docka'
+categories: ['Alice Tegnér']
+tags: [vaggvisa, docka]
 spotify_id: 2vsUU0Dxp5eokYv1mRsTaa
 youtube_id: dGDgrmJy3Ng
 ---  
