@@ -2,6 +2,7 @@
 title: Sång till friheten
 categories: [Björn Afzelius, Silvio Rodriguez]
 tags: [vaggvisa]
+megavega_id: 2M4urO1XobU
 youtube_id: MOj8GfMLC58
 spotify_id: 3kiony3f9f30GrvWULDrEx
 ---
