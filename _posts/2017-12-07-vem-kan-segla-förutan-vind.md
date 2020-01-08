@@ -1,5 +1,7 @@
 ---
 title: Vem kan segla förutan vind
+megavega_id: 1Q-FOGPcx0Q
+spotify_id: 1AbF8TBMSkM9e2VUSEZLz7
 tags: [vaggvisa, babyrytmik]
 categories: [Trad]
 ---

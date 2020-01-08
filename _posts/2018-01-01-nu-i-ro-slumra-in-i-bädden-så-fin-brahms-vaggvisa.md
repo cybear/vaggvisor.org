@@ -1,5 +1,5 @@
 ---
-title: Nu i ro slumra in (Brahms vaggvisa)
+title: Nu i ro slumra in i bädden så fin (Brahms vaggvisa)
 categories: [Johannes Brahms, Alice Tegnér]
 tags: [vaggvisa]
 youtube_id: 8YYUXtzsZQc

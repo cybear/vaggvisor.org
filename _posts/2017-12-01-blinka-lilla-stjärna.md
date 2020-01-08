@@ -2,6 +2,7 @@
 categories: ['Betty Ehrenborg']
 tags: [vaggvisa, julvisa]
 title: 'Blinka lilla stjärna'
+megavega_id: wxwu_Y1z-Wg
 spotify_id: 5qKMRp9o7rHVpypsgFNaVg
 youtube_id: 9MvkUmrZiiE
 ---
