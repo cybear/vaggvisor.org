@@ -1,7 +1,7 @@
 ---
 title: Nicko Ticko Tinn och jag
 categories: ['Lennart Hellsing', 'Knut Brodin']
-tags: [vaggvisa]
+tags: [vaggvisa, rymden, raket, trumpet]
 spotify_id: 5gg5p8pA4ZgaQOkMxsq8e6
 ---
 

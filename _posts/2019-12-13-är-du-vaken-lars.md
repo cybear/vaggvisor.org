@@ -1,7 +1,7 @@
 ---
 title: 'Är du vaken Lars'
 categories: ['Gullan Bornemark']
-tags: [vaggvisa]
+tags: [vaggvisa, lars, borsta tänderna, namnsång]
 spotify_id: 6iFhC14wnrQk6JzRoXdDd7
 youtube_id: _miBL7E3wd8
 ---
@@ -9,7 +9,7 @@ youtube_id: _miBL7E3wd8
 Är du vaken Lars?  
 Är du vaken Lars?  
 Har du tvättat händerna, tvättat händerna?  
-Är du vaken Lars, e du vaken Lars?  
+Är du vaken Lars, är du vaken Lars?  
 och har du borstat, har du borstat tänderna?  
 Jag är vaken mor  
 Jag är vaken mor,  

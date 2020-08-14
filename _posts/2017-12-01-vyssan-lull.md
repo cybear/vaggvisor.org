@@ -1,6 +1,6 @@
 ---
 categories: ['Evert Taube']
-tags: [vaggvisa]
+tags: [vaggvisa, månen, segla]
 title: Byssan lull (Vyssan lull)
 spotify_id: 3e4YyzjCPnJkw8NwMFuNfd
 youtube_id:

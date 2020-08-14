@@ -1,7 +1,7 @@
 ---
 title: Bä bä vita lamm
 categories: [Alice Tegnér, MegaVega]
-tags: [vaggvisa, lamm, får]
+tags: [vaggvisa, lamm, får, syskon, lillebror]
 youtube_id: KsCw0oc23co
 spotify_id: 1NwO5R4n2HbtMcFgUrneJL
 megavega_id: mgY_o8Gvy14

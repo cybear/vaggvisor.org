@@ -1,6 +1,6 @@
 ---
 categories: ['Thorbjørn Egner']
-tags: [vaggvisa]
+tags: [vaggvisa, klättermus]
 title: Klättermusens vaggvisa
 spotify_id: 3MFjGjnTg5NSThwczqePG0
 youtube_id: 06s1OxLAK5Q

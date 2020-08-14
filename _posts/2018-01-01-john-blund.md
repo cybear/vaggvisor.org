@@ -1,6 +1,6 @@
 ---
 title: John Blund
-tags: [vaggvisa]
+tags: [vaggvisa, john]
 youtube_id: pRSgt3TEu_0
 spotify_id: 5gNa76TyEn5gZPusIeyuIc
 ---

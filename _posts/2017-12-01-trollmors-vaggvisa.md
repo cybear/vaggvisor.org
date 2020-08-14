@@ -1,6 +1,6 @@
 ---
 categories: ['Margit Holmberg']
-tags: [vaggvisa]
+tags: [vaggvisa, troll]
 title: 'Trollmors vaggvisa'
 megavega_id: vjXeldIYeqs
 spotify_id: 2tu5QdvwqjQikupzaJRLV7

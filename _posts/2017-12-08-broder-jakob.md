@@ -1,7 +1,7 @@
 ---
 title: Broder Jakob
 categories: [Trad]
-tags: [vaggvisa]
+tags: [vaggvisa, jakob, namnsång]
 spotify_id: 3i8akw1bv0iQMR3TdzOLR9
 youtube_id: BbC1Z0aaObI
 ---
