@@ -1,7 +1,7 @@
 ---
 title: Sockerbagaren
 categories: [Alice Tegnér]
-tags: [vaggvisa, julvisa]
+tags: [vaggvisa, julvisa, bakning]
 megavega_id: soEVZjGQ3mQ
 spotify_id: 6pRMbc2TwJerFmHf4YimY5
 ---

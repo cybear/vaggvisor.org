@@ -1,6 +1,7 @@
 ---
 title: 'Jag har en äng'
 categories: ['Jojje Wadenius']
+tags: [vaggvisa, gök, segling]
 spotify_id: 2qAORY53nNdgviJAnhKbHN
 youtube_id: bS-xu7B9bno
 ---

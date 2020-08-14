@@ -1,7 +1,7 @@
 ---
 title: Sov lilla Totte
 categories: ['Hans Alfredson', 'Tage Danielsson']
-tags: [vaggvisa, hund]
+tags: [vaggvisa, hund, totte, namnsång]
 spotify_id: 6P4gq1C4UlUc4hjdoreMVw
 youtube_id: 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Mors lilla Olle
 categories: [Alice Tegnér, MegaVega]
-tags: [vaggvisa, björn]
+tags: [vaggvisa, björn, olle, namnsång]
 youtube_id: pDXYSaTZKzA
 spotify_id: 73fFulxjHDHSde9qYby49F
 megavega_id: 8ziy_99KUEQ

@@ -1,7 +1,7 @@
 ---
 title: Nu i ro slumra in i bädden så fin (Brahms vaggvisa)
 categories: [Johannes Brahms, Alice Tegnér]
-tags: [vaggvisa]
+tags: [vaggvisa, ängel]
 youtube_id: 8YYUXtzsZQc
 spotify_id: 0HorPLOMVd3z55rSPhMEA0
 ---
