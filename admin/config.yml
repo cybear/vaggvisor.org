@@ -14,6 +14,17 @@ collections:
       - {label: "Spotify ID", name: "spotify_id", widget: "string"}
       - {label: "Youtube ID", name: "youtube_id", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "drafts"
+    label: "Drafts"
+    folder: "_drafts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Authors", name: "categories", widget: "list"}
+      - {label: "Spotify ID", name: "spotify_id", widget: "string"}
+      - {label: "Youtube ID", name: "youtube_id", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "authors"
     label: "Authors"
     folder: "_authors"
