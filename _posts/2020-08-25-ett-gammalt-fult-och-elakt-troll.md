@@ -7,7 +7,7 @@ youtube_id: 08bVa0srMFQ
 ---
 Ett gammalt fult och elakt troll det var en gång
 
-som kom till detta landet i en luftballong.
+som kom till detta landet i en luftballong. 
 
 Han lade sig i Småland
 
