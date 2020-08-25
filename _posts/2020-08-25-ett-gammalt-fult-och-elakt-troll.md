@@ -17,7 +17,7 @@ och fötterna de var i samma stund i Lund.
 
 
 
- 
+
 
 Och hos det gamla trollet fanns en trollmadam,
 
@@ -31,8 +31,6 @@ en kaka utav sand
 
 så stor som Svealand.
 
- 
-
 Och hos det gamla trollet fanns en gammal katt,
 
 som var så stor så stor som hela Kattegatt.
@@ -44,8 +42,6 @@ man hörde hur han jama
 och svansen var så rund
 
 som hela Öresund.
-
- 
 
 Och nu är denna visa slut för denna gång
 
