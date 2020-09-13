@@ -6,11 +6,11 @@ body {
   color: #fff;
   background: #303030;
 }
-a { color: #fbecb1; font-weight: bold; text-decoration: none; }
+a { color: #fbecb1; text-decoration: none; border-bottom: 1px dotted #fbecb1; }
 .categories {line-height: 2;}
 .page-header { text-align: center; }
 .main-content :first-child { margin-top: 0; }
-@media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem 0; margin: 0 auto; font-size: 1.6rem; } }
+@media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem 0; margin: 0 auto; font-size: 1.4rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem 0; font-size: 1.4rem; } }
 @media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem 0; font-size: 1.2rem; } }
 .main-content img { max-width: 100%; }

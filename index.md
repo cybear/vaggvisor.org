@@ -2,16 +2,21 @@
 layout: default
 ---
 
-Att sjunga för sitt barn ger en mysig stund som är lugnande både för barnet och dig själv. 
-
-När du sjunger för ditt barn utvecklar du barnets språk, rytmik och musikalitet. Det förstärker bandet mellan förälder och barn. 
-
-Jag saknade en sajt med texter till vaggvisor utan reklam. Så jag gjorde den. Håll tillgodo!
-
-
-
+<div class="cards-container" style="
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 2em 1em;
+">
 {% assign sortedPosts = site.posts | sort: 'title' %}
 {% for post in sortedPosts %}
+  <div style="overflow: hidden">
+  {% if post.spotify_image %}
+    <img src="{{ post.spotify_image }}" />
+  {% else %}
+    <img src="/assets/album.png" />
+  {% endif %}
+  <br/>
   <a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
 {% endfor %}
-
+</div>

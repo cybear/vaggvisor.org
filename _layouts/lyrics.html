@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% if page.spotify_image %}
+    <img src="{{ page.spotify_image }}" />
+{% endif %}
 {{ content }}
 {% include megavega.html %}
 {% include youtube.html %}
