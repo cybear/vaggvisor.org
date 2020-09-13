@@ -3,6 +3,7 @@ categories: ['Arvid Höglund', MegaVega]
 tags: [vaggvisa, babyrytmik, bock]
 title: 'Bockarna Bruse'
 spotify_id: 5fcY9xALyt1sH8E0gdGHoV
+spotify_image: "https://i.scdn.co/image/ab67616d0000b27345d67543bd1f83ba7c7afe75"
 megavega_id: vV2Adqotfyc
 ---
 

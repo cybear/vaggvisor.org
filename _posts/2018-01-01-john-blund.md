@@ -3,6 +3,7 @@ title: John Blund
 tags: [vaggvisa, john]
 youtube_id: pRSgt3TEu_0
 spotify_id: 5gNa76TyEn5gZPusIeyuIc
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2739e79de126ee9238a7eb62c1d"
 ---
 
 Titta, kom och titta,  

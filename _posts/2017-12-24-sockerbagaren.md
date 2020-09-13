@@ -4,6 +4,7 @@ categories: [Alice Tegnér]
 tags: [vaggvisa, julvisa, bakning]
 megavega_id: soEVZjGQ3mQ
 spotify_id: 6pRMbc2TwJerFmHf4YimY5
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273701e028ad29700fbc3078d96"
 ---
 
 En sockerbagare här bor i staden,  

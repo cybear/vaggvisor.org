@@ -4,6 +4,7 @@ categories:
   - Astrid Lindgren
   - Georg Riedel
 spotify_id: 41ykywmUtDSis7fGAarryh
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2737921e5d23ad0f3d1369febef"
 youtube_id: C9lDwkruo7E
 ---
 Du ska inte tro det blir sommar,\

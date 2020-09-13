@@ -4,6 +4,7 @@ categories:
   - Astrid Lindgren
   - Bengt Hallberg
 spotify_id: 1qvndBgIEey9vHIjMDnrRV
+spotify_image: "https://i.scdn.co/image/ab67616d0000b27399487773ef61ae28d7ce4d94"
 youtube_id: j-O6PdojHoQ
 ---
 Köttbullar, köttbullar, köttbullar,\

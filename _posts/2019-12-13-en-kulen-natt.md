@@ -4,6 +4,7 @@ categories: ['Anders Palm', 'Johan Stenström']
 tags: [vaggvisa, babyrytmik, båt]
 megavega_id: m_q7lOXHIHw
 spotify_id: 2guF6voX3pqejmmFU1EFnM
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273c43cbf3c054d81a34f1a0b41"
 youtube_id: _miBL7E3wd8
 ---
 

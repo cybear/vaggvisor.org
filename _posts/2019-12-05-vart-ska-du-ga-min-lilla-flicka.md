@@ -3,6 +3,7 @@ title: 'Vart ska du gå, min lilla flicka'
 categories: ['Alice Tegnér']
 tags: [vaggvisa, get]
 spotify_id: 3UiyOwYrZ17SxVg3mWmzdX
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273ff5d4c9fdc3d31fe240426f6"
 youtube_id: r5ItjYSBEOk
 ---  
 

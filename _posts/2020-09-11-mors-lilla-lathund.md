@@ -4,6 +4,7 @@ categories:
   - Astrid Lindgren
   - Georg Riedel
 spotify_id: WWQmJCUiF2aq4dFXr
+spotify_image: 
 youtube_id: 9smQGIkhD0M
 ---
 Mors lilla lathund sa\

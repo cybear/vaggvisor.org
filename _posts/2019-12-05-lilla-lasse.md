@@ -3,6 +3,7 @@ title: 'Lilla Lasse'
 categories: ['Alice Tegnér']
 tags: [vaggvisa, gädda, braxen, lasse, segla, namnsång]
 spotify_id: 32kXOV8n9qLWma0Oi3nyc6
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273ff5d4c9fdc3d31fe240426f6"
 youtube_id: qatuErhps2U
 ---  
 

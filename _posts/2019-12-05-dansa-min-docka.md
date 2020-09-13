@@ -3,6 +3,7 @@ title: 'Dansa min docka'
 categories: ['Alice Tegnér']
 tags: [vaggvisa, docka]
 spotify_id: 2vsUU0Dxp5eokYv1mRsTaa
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273ff5d4c9fdc3d31fe240426f6"
 youtube_id: dGDgrmJy3Ng
 ---  
 

@@ -4,6 +4,7 @@ tags: [vaggvisa, julvisa]
 title: 'Blinka lilla stjärna'
 megavega_id: wxwu_Y1z-Wg
 spotify_id: 5qKMRp9o7rHVpypsgFNaVg
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2734b577e9fb65ba893513756cf"
 youtube_id: 9MvkUmrZiiE
 ---
 

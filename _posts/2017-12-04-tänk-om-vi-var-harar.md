@@ -3,6 +3,7 @@ categories: [Lena Sjöberg, Martin Östergren]
 tags: [vaggvisa, hare]
 title: 'Tänk om vi var harar'
 spotify_id: 0j5QTokSIvXX485cVtipAn
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273009a8cccf564077559b14953"
 youtube_id: So0V2ADnyEQ
 ---
 

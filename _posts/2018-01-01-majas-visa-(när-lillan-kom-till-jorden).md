@@ -4,6 +4,7 @@ categories: [Alice Tegnér]
 tags: [vaggvisa, lillasyster, vår, maj, maja, namnsång]
 youtube_id: Z4zBto2T-mA
 spotify_id: 1QWkuvvCmp16ZfCmN0GrSr
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273753611f7bb799963244d0f6f"
 ---
 
 När lillan kom till jorden,  

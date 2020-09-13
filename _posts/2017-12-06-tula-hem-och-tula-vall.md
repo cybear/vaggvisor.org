@@ -3,6 +3,7 @@ categories: ['Alice Tegnér', 'Bengt Hallberg']
 tags: [vaggvisa]
 title: Tula hem och tula vall
 spotify_id: 4xrpuI4tvfYG8V6n3AhMV3
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2734b577e9fb65ba893513756cf"
 youtube_id: dCru0-KN50Y
 ---
 

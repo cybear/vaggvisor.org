@@ -3,6 +3,7 @@ title: 'Björnen sover'
 categories: ['Carl Michael Bellman']
 tags: [vaggvisa, björn, barnlek]
 spotify_id: 0JGcH6rf6HXjjMwrifPKQ0
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273d62127449d204c25fef16e6f"
 youtube_id: n5dGWfcWO9w
 ---
 

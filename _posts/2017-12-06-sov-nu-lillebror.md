@@ -3,6 +3,7 @@ categories: ['Hans Alfredson']
 tags: [vaggvisa, lillebror, storebror, syskon]
 title: Sov nu lillebror
 spotify_id: 0gZgSCXEKHGErtd7TCkvmm
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273876bd7f70774397025a39cb8"
 youtube_id: 9OpMHbfKAbk
 ---
 

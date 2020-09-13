@@ -3,6 +3,7 @@ title: Var bor du lilla råtta
 categories:
   - Britt G. Hallqvist
 spotify_id: 3oHDZiLuiOECTmnr8p3GRU
+spotify_image: "https://i.scdn.co/image/ab67616d0000b27351533031e75676a833ea9218"
 youtube_id: 9aoIq7y8Y7c
 ---
 Var bor du lilla råtta? \

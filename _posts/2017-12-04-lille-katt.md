@@ -3,6 +3,7 @@ categories: ['Astrid Lindgren','Georg Riedel']
 tags: [vaggvisa, katt]
 title: 'Lille katt'
 spotify_id: 3l6DIT1Es47FMhwMV7c0rl
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2737921e5d23ad0f3d1369febef"
 youtube_id: fFh9WleBkRk
 ---
 

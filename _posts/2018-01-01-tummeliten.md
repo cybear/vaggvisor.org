@@ -4,6 +4,7 @@ categories: [Alice Tegnér]
 tags: [vaggvisa, räkna]
 youtube_id: 
 spotify_id: 0THIGF3u1pmHSbjJASz3uW
+spotify_image: "https://i.scdn.co/image/ab67616d0000b27352102e727ab211415809d3e9"
 ---
 
 Ett, två, tre, fyr, fem och sex och sju,  

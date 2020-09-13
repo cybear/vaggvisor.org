@@ -4,6 +4,7 @@ categories: [Johannes Brahms, Alice Tegnér]
 tags: [vaggvisa, ängel]
 youtube_id: 8YYUXtzsZQc
 spotify_id: 0HorPLOMVd3z55rSPhMEA0
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273753611f7bb799963244d0f6f"
 ---
 
 Nu i ro, slumra in,  

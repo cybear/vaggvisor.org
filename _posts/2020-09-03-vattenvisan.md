@@ -4,6 +4,7 @@ categories:
   - Lennart Helsing
   - Lille Bror Söderlundh
 spotify_id: 5oR3GAvNFhlmdMfZWEUCXJ
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273b26f4eef7fa935cde6c30f77"
 youtube_id: j0emKytgALs
 ---
 Vad är det som regnar på våra paraply\

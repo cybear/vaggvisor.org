@@ -4,6 +4,7 @@ categories:
   - Astrid Lindgren
   - Georg Riedel
 spotify_id: 21623HoZIleBDGgPYX6lTi
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2735615c4993b2ddc0ce285c967"
 youtube_id: LhJm0VF0dHE
 ---
 Och nu så vill jag sjunga\

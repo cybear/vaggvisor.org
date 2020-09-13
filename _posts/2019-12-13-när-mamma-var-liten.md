@@ -3,6 +3,7 @@ title: 'När mamma var liten'
 categories: ['Astrid Lindgren', 'Georg Riedel']
 tags: [vaggvisa, mamma]
 spotify_id: 3n8SCtfmtxcNy4WgALE7UJ
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2737921e5d23ad0f3d1369febef"
 youtube_id: _7nOfH7ornM
 ---
 

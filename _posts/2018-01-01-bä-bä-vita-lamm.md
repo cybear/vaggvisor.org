@@ -4,6 +4,7 @@ categories: [Alice Tegnér, MegaVega]
 tags: [vaggvisa, lamm, får, syskon, lillebror]
 youtube_id: KsCw0oc23co
 spotify_id: 1NwO5R4n2HbtMcFgUrneJL
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273ff5d4c9fdc3d31fe240426f6"
 megavega_id: mgY_o8Gvy14
 ---
 

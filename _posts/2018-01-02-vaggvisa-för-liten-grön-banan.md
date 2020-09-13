@@ -4,6 +4,7 @@ categories: [Lennart Hellsing]
 tags: [vaggvisa, banan, månen]
 youtube_id: EYObQxJw9ss
 spotify_id: 1bvZ0VVU9bwjVE45kYRACD
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2733ad37b75c88b912124913dff"
 ---
 
 

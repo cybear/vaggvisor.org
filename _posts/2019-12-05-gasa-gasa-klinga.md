@@ -3,6 +3,7 @@ title: 'Gåsa gåsa klinga'
 categories: ['Adolf Iwar Arwidsson']
 tags: [vaggvisa, gök, gås, svala]
 spotify_id: 7wnUBSgbr62gQnagCVUDLL
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2730dbdcd0776253ac515011353"
 youtube_id: h7yL_WRJy6c
 ---
 

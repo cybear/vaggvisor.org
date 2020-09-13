@@ -3,6 +3,7 @@ title: 'Ute blåser sommarvind'
 categories: ['Samuel Johan Hedborn', 'Alice Tegnér']
 tags: [vaggvisa, sommar]
 spotify_id: 504qIT9KWf1OPerEMguJg8
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2734b577e9fb65ba893513756cf"
 youtube_id: 
 ---
 

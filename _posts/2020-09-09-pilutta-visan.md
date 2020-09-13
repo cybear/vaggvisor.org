@@ -4,6 +4,7 @@ categories:
   - Astrid Lindgren
   - Bengt Hallberg
 spotify_id: 5xEhLiNtIFRhJ6gCNfadrw
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273737ec0dfe1f67ed4c09a64f7"
 youtube_id: xU70YVXEh4w
 ---
 Madicken, Madicken, pilutta dig, pilutta dig,\

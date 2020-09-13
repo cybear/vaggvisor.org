@@ -3,6 +3,7 @@ title: Vargsången
 categories: ['Astrid Lindgren','Björn Isfält']
 tags: [vaggvisa, varg]
 spotify_id: 07YghKKOc117g3VIKwJMFb
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273afe4f323e6822ac972114f66"
 youtube_id: QMHq-nRF4p8
 ---
 

@@ -3,6 +3,7 @@ title: Vaggvisa för min son Carl
 categories: ['Carl Michael Bellman']
 tags: [vaggvisa, carl, namnsång]
 spotify_id: 16WDbjvb6dIO4Pnc08DptS
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2731ee2e28915b722463a09200d"
 youtube_id: 4wMkWIF6U60
 ---
 

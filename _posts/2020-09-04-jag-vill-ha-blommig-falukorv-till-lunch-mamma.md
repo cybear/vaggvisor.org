@@ -3,6 +3,7 @@ title: 'Jag vill ha blommig falukorv till lunch, mamma'
 categories:
   - Hasse Alfredson
 spotify_id: 5uGAVZObTA1HhdIskF5Kkt
+spotify_image: "https://i.scdn.co/image/ab67616d0000b27338bc407e717aa45882446474"
 youtube_id: Snr2_kHLtvE
 ---
 Jag vill ha blommig falukorv till lunch, mamma\

@@ -4,6 +4,7 @@ categories: [Alice Tegnér, MegaVega]
 tags: [vaggvisa, björn, olle, namnsång]
 youtube_id: pDXYSaTZKzA
 spotify_id: 73fFulxjHDHSde9qYby49F
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273db0b3e6ee82393f948c1af9e"
 megavega_id: 8ziy_99KUEQ
 ---
 

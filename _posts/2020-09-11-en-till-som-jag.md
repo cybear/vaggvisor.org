@@ -4,6 +4,7 @@ categories:
   - Astrid Lindgren
   - Georg Riedel
 spotify_id: 5kyYkS23zzfohUHzObPxFC
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273737ec0dfe1f67ed4c09a64f7"
 youtube_id: qtb6106EX_4
 ---
 Vet du vad\

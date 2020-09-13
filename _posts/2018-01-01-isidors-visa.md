@@ -4,6 +4,7 @@ categories: [Ola Ström, Per Dunsö]
 tags: [vaggvisa, isbjörn]
 youtube_id: AzTs4xz8x2Q
 spotify_id: 
+spotify_image: 
 ---
 
 Sov lille Isidor!  

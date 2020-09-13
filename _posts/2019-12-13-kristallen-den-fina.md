@@ -3,6 +3,7 @@ title: 'Kristallen den fina'
 categories: ['Trad']
 tags: [vaggvisa]
 spotify_id: 55zZ62m7LW3tZoIiMPg3pw
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2737538cc86f38da5fed1fb0426"
 youtube_id: cllrNc--moc
 ---  
 

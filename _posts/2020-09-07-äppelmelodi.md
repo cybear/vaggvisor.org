@@ -3,6 +3,7 @@ title: Äppelmelodi
 categories:
   - Lollo Asplund
 spotify_id: 2oDTIqZiSPLeDXrUFtNiJ4
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273575a468846c3a75caac9b4cf"
 youtube_id: j7E-ldIdbUI
 ---
 Om du har ett äpple vill du dela det med mig i en äppelmelodi\

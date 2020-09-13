@@ -2,6 +2,7 @@
 title: Små små fågelungar sova i sitt bo
 tags: [vaggvisa, fågel]
 spotify_id: 1YnDTDwkxEjhzTATuB8Nyk
+spotify_image: "https://i.scdn.co/image/ab67616d0000b27341030bac3966042c43a3db4d"
 youtube_id: c2LAdQW7a68
 ---
 

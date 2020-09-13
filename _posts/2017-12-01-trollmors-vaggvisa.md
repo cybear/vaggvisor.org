@@ -4,6 +4,7 @@ tags: [vaggvisa, troll]
 title: 'Trollmors vaggvisa'
 megavega_id: vjXeldIYeqs
 spotify_id: 2tu5QdvwqjQikupzaJRLV7
+spotify_image: "https://i.scdn.co/image/ab67616d0000b2734b577e9fb65ba893513756cf"
 youtube_id: lBFa4z0baSc
 ---
 

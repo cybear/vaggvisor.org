@@ -3,6 +3,7 @@ title: Ett gammalt fult och elakt troll
 categories:
   - Felix Körling
 spotify_id: 21NQhqnHb84Q4nHLtDl0Y5
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273b26f4eef7fa935cde6c30f77"
 youtube_id: 08bVa0srMFQ
 ---
 Ett gammalt fult och elakt troll det var en gång\

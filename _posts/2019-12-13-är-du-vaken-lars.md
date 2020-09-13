@@ -3,6 +3,7 @@ title: 'Är du vaken Lars'
 categories: ['Gullan Bornemark']
 tags: [vaggvisa, lars, borsta tänderna, namnsång]
 spotify_id: 6iFhC14wnrQk6JzRoXdDd7
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273ee517e0555a13a9c5c30101c"
 youtube_id: _miBL7E3wd8
 ---
 

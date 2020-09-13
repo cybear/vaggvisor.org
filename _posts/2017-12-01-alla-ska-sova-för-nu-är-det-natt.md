@@ -3,6 +3,7 @@ categories: ['Astrid Lindgren','Georg Riedel']
 tags: [vaggvisa]
 title: 'Alla ska sova för nu är det natt'
 spotify_id: 4DSFl5u2ss5UpkT4rJNiHJ
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273215f5f58fe606c2eb4271cc6"
 youtube_id: wVD_RoIrFIQ
 ---
 

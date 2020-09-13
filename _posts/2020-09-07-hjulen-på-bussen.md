@@ -3,6 +3,7 @@ title: Hjulen på bussen
 categories:
   - Verna Hills
 spotify_id: 50LVZYMgxD9mhcSmNGLbG8
+spotify_image: "https://i.scdn.co/image/ab67616d0000b273c53ef8c5169fe1d8f36ebe44"
 youtube_id: XyRFvY_1Vas
 ---
 Hjulen på bussen snurrar, runt, runt, runt, \
