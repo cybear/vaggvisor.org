@@ -1,5 +1,5 @@
 ---
-title: C - Champinjon
+title: Majas alfabet C - Champinjon
 categories:
   - Lena Andersson
   - Kerstin Andeby
