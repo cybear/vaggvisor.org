@@ -4,7 +4,7 @@ categories:
   - Astrid Lindgren
   - Georg Riedel
 spotify_id: 3B2Wl5lngojgIHvxjtBgXF
-youtube_id: 'TzhFHP7bMOg '
+youtube_id: 'TzhFHP7bMOg'
 ---
 Minns du en sjöman för länge, länge sen,\
 minns du hans namn var Kalle Theodor?\

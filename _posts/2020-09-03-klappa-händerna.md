@@ -1,5 +1,5 @@
 ---
-title: 'Klappa händerna '
+title: 'Klappa händerna'
 categories:
   - Am. trad
   - okänd

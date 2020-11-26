@@ -1,5 +1,5 @@
 ---
-title: 'Bom bom bom '
+title: 'Bom bom bom'
 categories:
   - Kjell Lönnå
 spotify_id: 7ebr1tvtnfJ61BiZQQLQfc

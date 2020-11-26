@@ -2,8 +2,8 @@
 title: En elefant balanserade
 categories:
   - Okänd
-spotify_id: '2BiZDzpf38c5bu1UnDIKAp '
-youtube_id: 'niStWrz3SdA '
+spotify_id: '2BiZDzpf38c5bu1UnDIKAp'
+youtube_id: 'niStWrz3SdA'
 ---
 En elefant balanserade \
 på en liten liten spindeltråd \
