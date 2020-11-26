@@ -4,7 +4,7 @@ categories:
   - Lena Andersson
   - Kerstin Andeby
   - Peter Wanngren
-spotify_id: '?v=ZPWx-rsolrg'
+spotify_id: 'ZPWx-rsolrg'
 youtube_id: 6xDgZRHaZ1Q39omwUQ7tY1
 ---
 Gräslök med sitt goda strå\

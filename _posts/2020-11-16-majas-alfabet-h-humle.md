@@ -5,7 +5,7 @@ categories:
   - Kerstin Andeby
   - Peter Wanngren
 spotify_id: 47CM3zH1ejRJl0H4EURscZ
-youtube_id: '?v=X9gG9nsGxSg'
+youtube_id: 'X9gG9nsGxSg'
 ---
 Humlen klättrar så vild och så tokig\
 slår knut på sej själv och blir alldeles krokig\

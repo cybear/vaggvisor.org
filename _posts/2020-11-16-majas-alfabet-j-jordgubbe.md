@@ -5,7 +5,7 @@ categories:
   - Kerstin Andeby
   - Peter Wanngren
 spotify_id: 1dmlD8ehHXRt1jF05ES936
-youtube_id: '?v=LrYmDSb6-uo'
+youtube_id: 'LrYmDSb6-uo'
 ---
 Jag ska baka en tårta med jordgubbar på\
 och mitt i tårtan ska namnskylten stå\
