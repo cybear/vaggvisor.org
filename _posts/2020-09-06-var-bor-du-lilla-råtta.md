@@ -6,7 +6,7 @@ spotify_id: 3oHDZiLuiOECTmnr8p3GRU
 youtube_id: 9aoIq7y8Y7c
 ---
 Var bor du lilla råtta? \
-I din hatt\
+I en hatt\
 Vad gör du klockan åtta?\
 Jagar katt\
 Hur många ungar har du? \
